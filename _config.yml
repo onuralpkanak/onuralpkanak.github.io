@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Onuralp Kanak"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Student at Robert College and Ahmet Yüksel Özemre Science and Arts Center"
   location         : "Istanbul"
-  employer         : "Robert College"
+  employer         : "Robert College, RC Prep Debate"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kanakonuralp@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "onuray_6"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
