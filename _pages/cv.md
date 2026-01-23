@@ -11,35 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Primary School, Ümraniye İlkokulu (2017 - 2018)
+* Primary School, Cenap Şahabettin İlkokulu(2018 - 2021)
+* BILSEM, Ahmet Yüksel Özemre Science and Arts Center (2019 - ...) focusing on "Phylosophy" since 2025
+* Middle School, Sultantepe Prof. Dr. Cemil Taşçıoğlu Ortaokulu (2021 - 2025)
+* High School, Robert College (2025 - ...)
+* Club, RC Prep Debate (2025 - ...)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2026 First Quarter
+  * 17-18-19 January - joined ESDC'26 as Debater
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Problem-solving
+  * Analytical Thinking and Innovation
+  * Reasoning
+  * Thinking on Big Scale
+  * Creativity, Originality
+  * Critical Thinking, Analysis
+  * Complex Problem-solving
+* Self-management
+  * Active Learning and Learning Strategies
+  * Resilience, Stress Tolerance
+  * Flexibility
+* Technology
+  * Technology Use, Monitoring, Control
+  * Programming, Technology Design
+* Globality
+  * Reading News Actively
+  * Being Open to Different Ideas
 
 Publications
 ======
@@ -61,4 +63,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
